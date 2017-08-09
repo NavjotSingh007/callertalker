@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_fa5a844303c5a67aadc03d224bccaa5ae4a640a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\1bc5040acf831be8a3d86cf8df6921a50db69a90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07c04274c848b9c7c3aa897b38b87c6d53d8736c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\8659f8d700c47910adea961e78143f465a155201\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2104a5055496dcab3154865f2b0f7bd0f0711187\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\8566535a0d097d53c9cc3d939206a0d85d9d1c09\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4433dcb64d2a5a60e650335c2377640494f68157\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\a823b9fd405efa4bae485fc0fe023002427b0452\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd63ba6e38819c7ecb1043f55b548d7e96bbbf7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\012a355c4f0c69095b2e565fe88a7189ac82d8e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4aca6f85f545c33df4e2f0b6bf5ca48e451659f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\0a70e90f603d4ddcf3ea16e17b6eca4b63bcd0ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d50ef38ae6472b2e7d5644edc4d68522c7c9d60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\f2d0f7d05573c27ec1bf247ce6e3a21b415f627c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e2eef62a5c9232a6e0b3dc335333590573f9f92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c70f2486e63c17513ee74ecf1bac6f2580a31b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\9345f8aaf6954a62457c93d1ba91b1741d04863c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7bb386a6e979cda9c5971e233c60a09e176c0de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_c0bab1294c1a219e5c2accaff817dd565e1c777f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ebf0e54cf533a9cc459ce41180a37a2ec27243c">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_560fe31d58352cf1a9036b375d478af6ae996007\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\54c2d81a4f59fd4eca82a4be02817b2dc4bba480\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56a7b708719af94808d3ff8eba7faca852a4f499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\999b8c39f75e8d59b7911b6bbe252973d85d8ca0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df6cfc35a3414ce0bcdbe41c88bfcaa77b1ddaa3\classes.dex" />
+    </item>
+
+</items>
