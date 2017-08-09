@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml
+		INJECTED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml
+		INJECTED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml
+		INJECTED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:5:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:6:22-69
+application
+ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:8:5-31:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\0a70e90f603d4ddcf3ea16e17b6eca4b63bcd0ff\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\f2d0f7d05573c27ec1bf247ce6e3a21b415f627c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\8566535a0d097d53c9cc3d939206a0d85d9d1c09\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\012a355c4f0c69095b2e565fe88a7189ac82d8e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\9345f8aaf6954a62457c93d1ba91b1741d04863c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\1bc5040acf831be8a3d86cf8df6921a50db69a90\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\999b8c39f75e8d59b7911b6bbe252973d85d8ca0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\a823b9fd405efa4bae485fc0fe023002427b0452\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\54c2d81a4f59fd4eca82a4be02817b2dc4bba480\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\8659f8d700c47910adea961e78143f465a155201\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:12:9-49
+	android:allowBackup
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:10:9-44
+	android:theme
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:14:9-40
+activity#singh.navjot.callertalker.MainActivity
+ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:19:27-74
+activity#singh.navjot.callertalker.SettingsActivity
+ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:22:9-24:63
+	android:label
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:24:13-60
+	android:name
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:23:13-45
+service#singh.navjot.callertalker.CTService
+ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:26:9-30:19
+	android:enabled
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:28:13-35
+	android:exported
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml:27:13-38
+uses-sdk
+INJECTED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\0a70e90f603d4ddcf3ea16e17b6eca4b63bcd0ff\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\f2d0f7d05573c27ec1bf247ce6e3a21b415f627c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\8566535a0d097d53c9cc3d939206a0d85d9d1c09\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\012a355c4f0c69095b2e565fe88a7189ac82d8e7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\9345f8aaf6954a62457c93d1ba91b1741d04863c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\1bc5040acf831be8a3d86cf8df6921a50db69a90\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\999b8c39f75e8d59b7911b6bbe252973d85d8ca0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\a823b9fd405efa4bae485fc0fe023002427b0452\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\54c2d81a4f59fd4eca82a4be02817b2dc4bba480\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\8659f8d700c47910adea961e78143f465a155201\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\0a70e90f603d4ddcf3ea16e17b6eca4b63bcd0ff\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml
+		INJECTED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml
+		INJECTED from E:\lucky-I.T\ANDROID\android_projects\CallerTalker\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\0a70e90f603d4ddcf3ea16e17b6eca4b63bcd0ff\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\f2d0f7d05573c27ec1bf247ce6e3a21b415f627c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\012a355c4f0c69095b2e565fe88a7189ac82d8e7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\9345f8aaf6954a62457c93d1ba91b1741d04863c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\1bc5040acf831be8a3d86cf8df6921a50db69a90\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\999b8c39f75e8d59b7911b6bbe252973d85d8ca0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\a823b9fd405efa4bae485fc0fe023002427b0452\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\54c2d81a4f59fd4eca82a4be02817b2dc4bba480\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\8659f8d700c47910adea961e78143f465a155201\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\0a70e90f603d4ddcf3ea16e17b6eca4b63bcd0ff\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\0a70e90f603d4ddcf3ea16e17b6eca4b63bcd0ff\output\AndroidManifest.xml:26:9-47

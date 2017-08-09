@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_notification.xml",
+        "source": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
+        "source": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\src\\main\\res\\xml\\pref_general.xml"
+    }
+]

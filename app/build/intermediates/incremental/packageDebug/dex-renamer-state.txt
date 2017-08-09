@@ -1,0 +1,7 @@
+#Sat Jul 29 11:44:00 IST 2017
+base.0=E\:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_560fe31d58352cf1a9036b375d478af6ae996007
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c70f2486e63c17513ee74ecf1bac6f2580a31b4c\\classes.dex
+base.1=E\:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c70f2486e63c17513ee74ecf1bac6f2580a31b4c
+file.0=E\:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_560fe31d58352cf1a9036b375d478af6ae996007\\classes.dex

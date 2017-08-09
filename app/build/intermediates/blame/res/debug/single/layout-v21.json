@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0a70e90f603d4ddcf3ea16e17b6eca4b63bcd0ff\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0a70e90f603d4ddcf3ea16e17b6eca4b63bcd0ff\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0a70e90f603d4ddcf3ea16e17b6eca4b63bcd0ff\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0a70e90f603d4ddcf3ea16e17b6eca4b63bcd0ff\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

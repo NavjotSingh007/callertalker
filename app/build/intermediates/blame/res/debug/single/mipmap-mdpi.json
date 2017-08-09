@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\lucky-I.T\\ANDROID\\android_projects\\CallerTalker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

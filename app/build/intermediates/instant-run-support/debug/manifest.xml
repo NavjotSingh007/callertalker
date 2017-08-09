@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="singh.navjot.callertalker"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/callertalker"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/callertalker"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="singh.navjot.callertalker.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="singh.navjot.callertalker.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+
+        <service
+            android:name="singh.navjot.callertalker.CTService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="singh.navjot.callertalker.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
